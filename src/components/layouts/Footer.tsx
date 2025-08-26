@@ -23,14 +23,14 @@ export default function Footer() {
         }}
       >
         <Typography color="grey.700" variant="h6" component="span">
-          Developed by{" "}
+          Developed by{"uPhumeh "}
           <Link
             target="_blank"
             underline="none"
             sx={{ color: "text.primary" }}
             href="https://github.com/crazy-man22"
           >
-            Crazy Man
+            uPhumeh
           </Link>
         </Typography>
       </Divider>
